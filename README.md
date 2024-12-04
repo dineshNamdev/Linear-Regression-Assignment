@@ -1,11 +1,11 @@
-# Linear-Regression-Assignment
-A Case Study to perform EDA and build a Linear regression model to predict bike demand based on various dependent variables on a US based bike sharing company BoomBikes data.
+# Linear Regression Assignment
+> A case study to analyse and build a Linear Regression Model on BoomBikes (A US based bike sharing start-ups) 2 year bike sharing data along with various other variables. Case study include detailed EDA, Inferrential analysis, ML Model, residual study etc.
+
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Jupyter Notebook](DineshNamdev.ipynb)
+* [Data Dictionary](Readme.txt)
+* [Subjective Quastions Answer pdf](Regression+Subjective+Questions.pdf)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
